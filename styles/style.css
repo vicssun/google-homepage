@@ -1,0 +1,78 @@
+#logo img{
+	clear: both;
+	margin: 0 auto;
+	display: block;
+}
+
+form{
+	display: block;
+	text-align: center;
+}
+
+form input{
+	height: 35px;
+	width: 450px;
+	background: url(../images/voice.png) no-repeat scroll right;
+	background-size: 25px 25px;
+	padding-right: 30px;
+}
+
+#buttons{
+	text-align: center;
+	margin: auto auto 235px auto;
+	padding: 20px;
+}
+
+#buttons input{
+	font-family:Arial;
+	color: #757575;
+}
+
+#top_bar{
+	position: relative;
+	list-style-type: none;
+	margin: 0;
+	padding: 0 0 175px 0;
+}
+
+#top_bar a{
+	float: right;
+	padding: 2px 5px;
+	color: #000000;
+	opacity: .75;
+}
+
+#bottom_bar{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	bottom: 0;
+	background-color: #f2f2f2;
+	display: block;
+}
+
+a{
+	font-size: 13px;
+	text-decoration: none;
+	font-family: Arial;
+}
+
+#bottom_bar a{
+	background-color: #f2f2f2;
+	text-align: center;
+	padding: 14px 16px;
+	color: #666666;
+}
+
+li{
+	display: inline;
+}
+
+.left_foot{
+	float: left;
+}
+
+.right_foot{
+	float: right;
+}
